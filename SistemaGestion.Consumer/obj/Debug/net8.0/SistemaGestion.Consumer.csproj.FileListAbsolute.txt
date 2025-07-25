@@ -1,0 +1,12 @@
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\bin\Debug\net8.0\SistemaGestion.Consumer.deps.json
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\bin\Debug\net8.0\SistemaGestion.Consumer.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\bin\Debug\net8.0\SistemaGestion.Consumer.pdb
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.csproj.AssemblyReference.cache
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.AssemblyInfoInputs.cache
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.AssemblyInfo.cs
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\refint\SistemaGestion.Consumer.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\SistemaGestion.Consumer.pdb
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Consumer\obj\Debug\net8.0\ref\SistemaGestion.Consumer.dll

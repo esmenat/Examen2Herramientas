@@ -1,0 +1,11 @@
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\bin\Debug\net8.0\SistemaGestion.Modelos.deps.json
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\bin\Debug\net8.0\SistemaGestion.Modelos.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\bin\Debug\net8.0\SistemaGestion.Modelos.pdb
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.AssemblyInfoInputs.cache
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.AssemblyInfo.cs
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\refint\SistemaGestion.Modelos.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.pdb
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\ref\SistemaGestion.Modelos.dll

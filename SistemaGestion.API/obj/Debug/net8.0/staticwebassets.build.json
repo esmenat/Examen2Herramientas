@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pHTpOc7Oo+ffQM65kvcJPFCSf5EsEb804uFAIaYAfEE=",
+  "Source": "SistemaGestion.API",
+  "BasePath": "_content/SistemaGestion.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
