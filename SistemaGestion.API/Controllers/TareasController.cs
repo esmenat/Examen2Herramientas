@@ -72,7 +72,30 @@ namespace SistemaGestion.API.Controllers
             return tarea;
             
         }
+        [HttpGet("filtro")]
+        public IEnumerable<Tarea> GetTareasFiltradas(string estado)
+        {
+           
+            var query = "SELECT * FROM Tarea WHERE Estado = @Estado";
+            var tareas = connection.Query<Tarea>(query, new { Estado = estado }).ToList();
 
+           
+            return tareas;
+        }
+        [HttpGet("proyecto")]
+        public IEnumerable<Tarea> GetTareasPorProyecto(string proyectoNombre)
+        {
+            var query = "SELECT * FROM Tarea WHERE ProyectoId = (SELECT Id FROM Proyecto WHERE Nombre = @Nombre)";
+            var tareas = connection.Query<Tarea>(query, new { Nombre = proyectoNombre }).ToList();
+            foreach (var tarea in tareas)
+            {
+                var proyecto = connection.QueryFirstOrDefault<Proyecto>("SELECT * FROM Proyecto WHERE Id = @ProyectoId", new { ProyectoId = tarea.ProyectoId });
+               
+            }
+          
+            return tareas;
+        }
+       
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

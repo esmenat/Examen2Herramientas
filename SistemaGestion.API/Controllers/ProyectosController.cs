@@ -101,5 +101,6 @@ namespace SistemaGestion.API.Controllers
             var query = "DELETE FROM Proyecto WHERE Id = @Id";
             connection.Execute(query, new { Id = id });
         }
+       
     }
 }

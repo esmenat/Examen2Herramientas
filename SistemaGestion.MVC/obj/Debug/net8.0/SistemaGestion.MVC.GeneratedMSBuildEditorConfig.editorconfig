@@ -32,6 +32,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/BusquedaPorGrupos/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzcXVlZGFQb3JHcnVwb3NcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Filtrar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdHJhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -82,6 +90,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Tareas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Junior Tamayo/Desktop/PruebaSubida/SistemaGestion.API/SistemaGestion.MVC/Views/_ViewImports.cshtml]

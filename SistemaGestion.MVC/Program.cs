@@ -26,7 +26,10 @@ namespace SistemaGestion.MVC
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddHttpClient("API", client =>
+            {
+                client.BaseAddress = new Uri("https://localhost:7233/api/"); // <-- tu API base URL
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

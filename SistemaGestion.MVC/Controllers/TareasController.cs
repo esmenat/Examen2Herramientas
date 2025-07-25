@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Net.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using SistemaGestion.Consumer;
@@ -8,6 +9,13 @@ namespace SistemaGestion.MVC.Controllers
 {
     public class TareasController : Controller
     {
+        private readonly IHttpClientFactory _httpClientFactory;
+
+        public TareasController(IHttpClientFactory httpClientFactory)
+        {
+            _httpClientFactory = httpClientFactory;
+        }
+
         // GET: TareasController
         public ActionResult Index()
         {
@@ -84,7 +92,7 @@ namespace SistemaGestion.MVC.Controllers
         {
             try
             {
-                Crud<Tarea>.Update(id,tarea);
+                Crud<Tarea>.Update(id, tarea);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -115,5 +123,6 @@ namespace SistemaGestion.MVC.Controllers
                 return View();
             }
         }
+        
     }
 }

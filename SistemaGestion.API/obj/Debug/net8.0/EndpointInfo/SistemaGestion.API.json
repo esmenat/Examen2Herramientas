@@ -409,6 +409,100 @@
         }
       }
     },
+    "/api/Tareas/filtro": {
+      "get": {
+        "tags": [
+          "Tareas"
+        ],
+        "parameters": [
+          {
+            "name": "estado",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tareas/proyecto": {
+      "get": {
+        "tags": [
+          "Tareas"
+        ],
+        "parameters": [
+          {
+            "name": "proyectoNombre",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tarea"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Usuarios": {
       "get": {
         "tags": [

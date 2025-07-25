@@ -3,60 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\busquedaporgrupos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\busquedaporgrupos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\filtrar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\filtrar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C64373-6CD6-4B8E-A2B7-A37A886A7A8A}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C64373-6CD6-4B8E-A2B7-A37A886A7A8A}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|solutionrelative:sistemagestion.modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\controllers\\filtrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\controllers\\filtrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\controllers\\busquedaporgruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\controllers\\busquedaporgruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64373-6CD6-4B8E-A2B7-A37A886A7A8A}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64373-6CD6-4B8E-A2B7-A37A886A7A8A}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|solutionrelative:sistemagestion.modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.mvc\\views\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358FA637-54C5-4FFA-B6B5-187DD6B2A103}|SistemaGestion.MVC\\SistemaGestion.MVC.csproj|solutionrelative:sistemagestion.mvc\\views\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB9867B-5DA3-4BB4-A659-F953B03385D5}|SistemaGestion.API\\SistemaGestion.API.csproj|solutionrelative:sistemagestion.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C64373-6CD6-4B8E-A2B7-A37A886A7A8A}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\pruebasubida\\sistemagestion.api\\sistemagestion.modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,162 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:40:36.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:39:36.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "SistemaGestion.API\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAArwDkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:21.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TareasController.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\TareasController.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\TareasController.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\TareasController.cs",
-              "RelativeToolTip": "SistemaGestion.MVC\\Controllers\\TareasController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAhwB0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:20:58.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:19:26.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Tarea.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Tarea.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Tarea.cs",
-              "RelativeToolTip": "SistemaGestion.Modelos\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:21:46.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:20:50.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwCgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:20:14.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProyectosController.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\ProyectosController.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\ProyectosController.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\ProyectosController.cs",
-              "RelativeToolTip": "SistemaGestion.API\\Controllers\\ProyectosController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwD4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:49.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TareasController.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\TareasController.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\TareasController.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\TareasController.cs",
-              "RelativeToolTip": "SistemaGestion.API\\Controllers\\TareasController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:32.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Usuario.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Usuario.cs",
-              "RelativeToolTip": "SistemaGestion.Modelos\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:23:11.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
-              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T17:13:54.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Create.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Create.cshtml",
@@ -278,32 +171,341 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Proyectos\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAADRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:13:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:19:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiltrarController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\FiltrarController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\FiltrarController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\FiltrarController.cs",
+              "RelativeToolTip": "SistemaGestion.MVC\\Controllers\\FiltrarController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:02:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:20:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Filtrar\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Filtrar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Filtrar\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Filtrar\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T18:05:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\BusquedaPorGrupos\\index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\BusquedaPorGrupos\\index.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\BusquedaPorGrupos\\index.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\BusquedaPorGrupos\\index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T19:04:25.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SistemaGestion.MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-25T18:49:27.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "SistemaGestion.MVC\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:20:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T20:25:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T20:26:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T20:27:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T20:27:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T20:28:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusquedaPorGruposController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\BusquedaPorGruposController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\BusquedaPorGruposController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\BusquedaPorGruposController.cs",
+              "RelativeToolTip": "SistemaGestion.MVC\\Controllers\\BusquedaPorGruposController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:07:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProyectosController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\ProyectosController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\ProyectosController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\ProyectosController.cs",
+              "RelativeToolTip": "SistemaGestion.API\\Controllers\\ProyectosController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv2cAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:32:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Details.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Details.cshtml",
               "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Details.cshtml",
               "RelativeToolTip": "SistemaGestion.MVC\\Views\\Proyectos\\Details.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowDwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T17:15:37.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "SistemaGestion.API\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:32:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T18:43:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaGestion.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:55:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Tarea.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Tarea.cs",
+              "RelativeToolTip": "SistemaGestion.Modelos\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:21:46.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:39:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Program.cs",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Program.cs",
               "RelativeToolTip": "SistemaGestion.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:10:58.559Z"
+              "WhenOpened": "2025-07-25T14:10:58.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Tareas\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:20:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SistemaGestion.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:32:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeToolTip": "SistemaGestion.MVC\\Views\\Proyectos\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:40:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Usuario.cs",
+              "RelativeToolTip": "SistemaGestion.Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:23:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Proyecto.cs",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Modelos\\Proyecto.cs",
               "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Proyecto.cs",
@@ -315,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -327,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "ProyectosController.cs",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\ProyectosController.cs",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\ProyectosController.cs",
@@ -339,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Controllers\\UsuariosController.cs",
@@ -351,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\Views\\Home\\Index.cshtml",
@@ -363,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "Crud.cs",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.Consumer\\Crud.cs",
               "RelativeDocumentMoniker": "SistemaGestion.Consumer\\Crud.cs",
@@ -375,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaGestion.MVC\\appsettings.json",
@@ -387,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\PruebaSubida\\SistemaGestion.API\\SistemaGestion.API\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaGestion.API\\appsettings.json",

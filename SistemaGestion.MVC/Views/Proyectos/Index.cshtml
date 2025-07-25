@@ -5,9 +5,7 @@
 }
 
 <h1>Index</h1>
-<p class="mt-4">
-    <a asp-controller="Tareas" asp-action="Create" class="btn btn-outline-primary ms-2">Crear Tarea</a>
-</p>
+
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -56,5 +54,9 @@
             </td>
         </tr>
 }
+        <p class="mt-4">
+            <a asp-controller="Tareas" asp-action="Create" class="btn btn-outline-primary ms-2">Crear Tarea</a> <a asp-controller="Filtrar" asp-action="Index" class="btn btn-outline-primary ms-2">Filtrar</a>   <a asp-controller="BusquedaPorGrupos" asp-action="index" class="btn btn-outline-primary ms-2">Buscar por Proyecto</a>
+        </p>
+       
     </tbody>
 </table>

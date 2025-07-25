@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SistemaGestion.Modelos.Tarea>
+
+
+@{
+    ViewData["Title"] = "Buscar Tareas por Proyecto";
+}
+
+<h1>Buscar Tareas por Proyecto</h1>
+
+<form method="get" asp-action="Index" class="mb-4">
+    <div class="input-group">
+        <input type="text" name="proyectoNombre" value="@ViewData["proyectoNombre"]" class="form-control" placeholder="Ingresa el proyecto" />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tarea Nombre</th>
+                <th>Descripción</th>
+                <th>Estado</th>
+				<th>Proyecto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tarea in Model)
+            {
+                <tr>
+                    <td>@tarea.Nombre</td>
+                    <td>@tarea.Descripcion</td>
+                    <td>@tarea.Estado</td>
+					<td>@tarea.ProyectoId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron tareas para el proyecto proporcionado.</p>
+}
+<p class="mt-4">
+    <a asp-controller="Proyectos" asp-action="Index" class="btn btn-outline-primary ms-2">Ver Proyectos</a>
+</p>
