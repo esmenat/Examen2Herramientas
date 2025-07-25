@@ -1,13 +1,11 @@
-﻿@model IEnumerable<SistemaGestion.Modelos.Proyecto>
+﻿@model IEnumerable<SistemaGestion.Modelos.Tarea>
 
 @{
     ViewData["Title"] = "Index";
 }
 
 <h1>Index</h1>
-<p class="mt-4">
-    <a asp-controller="Tareas" asp-action="Create" class="btn btn-outline-primary ms-2">Crear Tarea</a>
-</p>
+
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -21,13 +19,10 @@
                 @Html.DisplayNameFor(model => model.Descripcion)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.FechaInicio)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaFin)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proyecto)
             </th>
             <th></th>
         </tr>
@@ -42,15 +37,15 @@
                 @Html.DisplayFor(modelItem => item.Descripcion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.FechaInicio)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaFin)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Estado)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.Proyecto.Descripcion)
+            </td>
+            <td>
+                    <p class="mt-4">
+                        <a asp-controller="Proyectos" asp-action="Index" class="btn btn-outline-primary ms-2">Ver Proyectos</a>
+                    </p>
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>

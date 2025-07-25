@@ -677,16 +677,9 @@
             "type": "string",
             "nullable": true
           },
-          "usuarioId": {
-            "type": "integer",
-            "format": "int32"
-          },
           "proyectoId": {
             "type": "integer",
             "format": "int32"
-          },
-          "usuario": {
-            "$ref": "#/components/schemas/Usuario"
           },
           "proyecto": {
             "$ref": "#/components/schemas/Proyecto"

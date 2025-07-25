@@ -9,3 +9,4 @@ C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Mo
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\refint\SistemaGestion.Modelos.dll
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.pdb
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\ref\SistemaGestion.Modelos.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.Modelos\obj\Debug\net8.0\SistemaGestion.Modelos.sourcelink.json

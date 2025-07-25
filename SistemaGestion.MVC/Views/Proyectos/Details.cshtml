@@ -42,10 +42,13 @@
         </dd>
     </dl>
 </div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
 <table class="table">
     <thead>
         <tr>
-            <th>NombreTarea</th>
+            <th>TareaNombre</th>
             <th>Descripcion</th>
             <th>Estado</th>
         </tr>
@@ -57,10 +60,10 @@
                 <td>
                     <a asp-action="Details" asp-controller="Tareas" asp-route-id="@tarea.Id">@tarea.Nombre</a>
                 </td>
-            
                 <td>@tarea.Descripcion</td>
                 <td>@tarea.Estado</td>
             </tr>
         }
     </tbody>
 </table>
+

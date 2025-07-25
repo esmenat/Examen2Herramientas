@@ -12,5 +12,6 @@ namespace SistemaGestion.MVC.Data
         }
         public DbSet<SistemaGestion.Modelos.Proyecto> Proyecto { get; set; } = default!;
         public DbSet<SistemaGestion.Modelos.Tarea> Tarea { get; set; } = default!;
+        public DbSet<SistemaGestion.Modelos.Usuario> Usuario { get; set; } = default!;
     }
 }

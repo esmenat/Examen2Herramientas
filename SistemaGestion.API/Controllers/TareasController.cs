@@ -40,15 +40,15 @@ namespace SistemaGestion.API.Controllers
         [HttpPost]
         public Tarea Post([FromBody] Tarea tarea)
         {
-            var query = "INSERT INTO Tarea (Nombre, Descripcion, Estado, UsuarioId, ProyectoId) " +
-                          "VALUES (@Nombre, @Descripcion, @Estado, @UsuarioId, @ProyectoId)";
+       
+            var query = "INSERT INTO Tarea (Nombre, Descripcion, Estado, ProyectoId) " +
+                          "VALUES (@Nombre, @Descripcion, @Estado, @ProyectoId)";
             connection.Execute( query, new
             {
-                tarea.Nombre,
-                tarea.Descripcion,
-                tarea.Estado,
-                tarea.UsuarioId,
-                tarea.ProyectoId
+                Nombre = tarea.Nombre,
+                Descripcion = tarea.Descripcion,
+                Estado = tarea.Estado,
+                ProyectoId = tarea.ProyectoId,
 
             });
             return tarea;
@@ -59,26 +59,35 @@ namespace SistemaGestion.API.Controllers
         [HttpPut("{id}")]
         public Tarea Put(int id, [FromBody] Tarea tarea)
         {
-            var query = "UPDATE Tarea SET Nombre = @Nombre, Descripcion = @Descripcion, Estado = @Estado, UsuarioId = @UsuarioId, ProyectoId = @ProyectoId WHERE Id = @Id";
+            var query = "UPDATE Tarea SET Nombre = @Nombre, Descripcion = @Descripcion, Estado = @Estado, ProyectoId = @ProyectoId WHERE Id = @Id";
             connection.Execute(query, new
             {
-                tarea.Nombre,
-                tarea.Descripcion,
-                tarea.Estado,
-                tarea.UsuarioId,
-                tarea.ProyectoId,
-                Id = id
+               Nombre =  tarea.Nombre,
+                Descripcion = tarea.Descripcion,
+                Estado = tarea.Estado,
+                ProyectoId = tarea.ProyectoId,
+                
+                    
             });
             return tarea;
             
         }
 
-        // DELETE api/<TareasController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
+            var tarea = connection.QueryFirstOrDefault<Tarea>("SELECT * FROM Tarea WHERE Id = @Id", new { Id = id });
+
+            if (tarea == null)
+            {
+                return NotFound();
+            }
+
             var query = "DELETE FROM Tarea WHERE Id = @Id";
             connection.Execute(query, new { Id = id });
+
+            return Ok(tarea); 
         }
+       
     }
 }

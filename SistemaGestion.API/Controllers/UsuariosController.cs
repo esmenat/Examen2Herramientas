@@ -45,9 +45,10 @@ namespace SistemaGestion.API.Controllers
                         "VALUES (@Nombre, @Apellido, @ProyectoId)";
             connection.Execute(query, new
             {
-                usuario.Nombre,
-                usuario.Apellido,
-                usuario.ProyectoId
+   
+                Nombre = usuario.Nombre,
+                Apellido = usuario.Apellido,
+                ProyectoId = usuario.ProyectoId
             });
             return usuario;
         }
@@ -59,10 +60,10 @@ namespace SistemaGestion.API.Controllers
             var query = "UPDATE Usuario SET Nombre = @Nombre, Apellido = @Apellido, ProyectoId = @ProyectoId WHERE Id = @Id";
             connection.Execute(query, new
             {
-                usuario.Nombre,
-                usuario.Apellido,
-                usuario.ProyectoId,
-                Id = id
+                Nombre = usuario.Nombre,
+                Apellido = usuario.Apellido,
+                ProyectoId = usuario.ProyectoId
+
             });
             return usuario;
         }

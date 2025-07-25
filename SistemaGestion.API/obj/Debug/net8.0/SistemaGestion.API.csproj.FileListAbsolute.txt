@@ -72,3 +72,4 @@ C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.AP
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.API\obj\Debug\net8.0\SistemaGestion.API.pdb
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.API\obj\Debug\net8.0\SistemaGestion.API.genruntimeconfig.cache
 C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.API\obj\Debug\net8.0\ref\SistemaGestion.API.dll
+C:\Users\Junior Tamayo\Desktop\PruebaSubida\SistemaGestion.API\SistemaGestion.API\obj\Debug\net8.0\SistemaGestion.API.sourcelink.json

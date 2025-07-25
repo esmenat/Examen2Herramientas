@@ -28,21 +28,17 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Estado)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Usuario)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Usuario)
-        </dd>
+
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Proyecto)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Proyecto.Nombre)
+            @Html.DisplayFor(model => model.Proyecto.Descripcion)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <p class="mt-4">
+        <a asp-controller="Proyectos" asp-action="Index" class="btn btn-outline-primary ms-2">Ver Proyectos</a>
+    </p>
 </div>

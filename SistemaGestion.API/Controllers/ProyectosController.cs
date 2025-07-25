@@ -58,15 +58,18 @@ namespace SistemaGestion.API.Controllers
         public Proyecto Post([FromBody] Proyecto proyecto)
         {
             var query = "INSERT INTO Proyecto (Nombre, Descripcion, FechaInicio, FechaFin, Estado) " +
-                          "VALUES (@Nombre, @Descripcion, @FechaInicio, @FechaFin, @Estado); " +
-                          "SELECT CAST(SCOPE_IDENTITY() as int)";
+                          "VALUES (@Nombre, @Descripcion, @FechaInicio, @FechaFin, @Estado)";
+                          
             connection.Execute(query, new
             {
-                proyecto.Nombre,
-                proyecto.Descripcion,
-                proyecto.FechaInicio,
-                proyecto.FechaFin,
-                proyecto.Estado
+             
+                Nombre = proyecto.Nombre,
+                Descripcion = proyecto.Descripcion,
+                FechaInicio = proyecto.FechaInicio,
+                FechaFin = proyecto.FechaFin,
+                Estado = proyecto.Estado
+                
+
             });
             return proyecto; 
         }
@@ -80,12 +83,13 @@ namespace SistemaGestion.API.Controllers
                           "WHERE Id = @Id";
             connection.Execute(query, new 
             {
-                Id = id,
-                proyecto.Nombre,
-                proyecto.Descripcion,
-                proyecto.FechaInicio,
-                proyecto.FechaFin,
-                proyecto.Estado
+                Nombre = proyecto.Nombre,
+                Descripcion = proyecto.Descripcion,
+                FechaInicio = proyecto.FechaInicio,
+                FechaFin = proyecto.FechaFin,
+                Estado = proyecto.Estado
+
+
             });
             return proyecto;
         }
